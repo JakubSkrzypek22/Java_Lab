@@ -1,2 +1,2 @@
 # Java_Lab
-Zadania od pierwszego do piątego z Javy
+Zadania od pierwszego do  szóstego z Javy
